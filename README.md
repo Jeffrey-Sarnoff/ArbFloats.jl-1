@@ -4,8 +4,7 @@ ArbFloat30, ArbFloat70, ArbFloat140, ArbFloat300 for accurate, extended precisio
 
 ```ruby
         Jeffrey A. Sarnoff                           2015-Dec-30 03:21:21 UTC America/New_York
-                                                     2015-Dec-31 06:00:00 UTC (multityped ops)
-                                                     2016-Jan-04 17:48:25 UTC (renamed)
+                                                     2016-Jan-04 18:34:10 UTC (revised)
 ```                    
 
 
