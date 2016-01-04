@@ -1,5 +1,5 @@
 ## ArbFloats.jl
-ArbFloat30, ArbFloat70, ArbFloat140, ArbFloat300 for accurate floating point math at extended precision
+ArbFloat30, ArbFloat70, ArbFloat140, ArbFloat300 for accurate, extended precision floating point math
 
 
 ```ruby
