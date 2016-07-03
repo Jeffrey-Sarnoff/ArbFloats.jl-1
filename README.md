@@ -1,3 +1,11 @@
+> ****
+>>> ***
+>> Please use [**the current repository**](https://github.com/jsarnoff-juliacon/ArbFloats.jl)
+>>> ***
+
+> ***
+
+
 ## ArbFloats.jl
 ArbFloat30, ArbFloat70, ArbFloat140, ArbFloat300 for accurate, extended precision floating point math
 
